@@ -1,5 +1,6 @@
 import React from "react"
 import { createGlobalStyle } from "styled-components";
+import Grid from '../components/Grid'
 
 const Global = createGlobalStyle`
 
@@ -17,7 +18,7 @@ body{
 const IndexPage = () => (
   <>
     <Global />
-    index
+    <Grid />
   </>
 )
 
