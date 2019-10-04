@@ -68,7 +68,7 @@ height:500px;
         
         display:block;
 
-        .slick-arrow{display:none}
+        .slick-arrow{display:none !important}
 
     }
 
