@@ -1,6 +1,8 @@
 import React from "react"
 import { createGlobalStyle } from "styled-components";
 import Grid from '../components/Grid'
+import Header from '../components/Header'
+
 
 const Global = createGlobalStyle`
 

@@ -8,6 +8,10 @@ font-weight:300;
 margin-top:4%;
 margin-bottom:0;
 
+@media(max-width:767px){
+    margin-top:10%;
+}
+
 `;
 
 export default GridHeader;
