@@ -17,8 +17,13 @@ body{
 const IndexPage = () => (
   <>
     <Global />
-    index
+    <Header />
   </>
 )
 
 export default IndexPage
+
+
+
+
+
